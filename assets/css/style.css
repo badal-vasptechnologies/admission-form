@@ -1,0 +1,17 @@
+.admission-box {
+    border: 1px solid #9d0000;
+    padding: 20px;
+}
+.warning {
+    color: red;
+    font-weight: bold;
+}
+.modal {
+    display: none;
+    position: fixed;
+    background: rgba(0,0,0,0.5);
+}
+.modal-content {
+    background: #fff;
+    padding: 20px;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "badal/admission-form",
+  "description": "Reusable Online Admission Form",
+  "autoload": {
+    "psr-4": {
+      "Badal\\Admission\\": "src/"
+    }
+  },
+  "require": {}
+}
