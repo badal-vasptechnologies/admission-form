@@ -6,5 +6,6 @@
       "Badal\\Admission\\": "src/"
     }
   },
+  "license": "MIT",
   "require": {}
 }
